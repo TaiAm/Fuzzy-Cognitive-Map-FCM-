@@ -6,10 +6,6 @@ package bamo.app.fcm;
 
 import java.util.ArrayList;
 
-/**
- *This class that is called directly by the 
- * @author
- */
 public class FcmLib {
 
     /**
